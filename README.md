@@ -34,5 +34,4 @@ Library: This project uses the pandas library to perform data analysis.
 Core Components: Data, Variables, Expressions, Statements
 
 Control Flow of Program: Functions, Conditionals, Loops, Recursion, Classes
-
 Organization of data into new structures: Lists, Sets, Dictionaries, Objects
