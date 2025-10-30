@@ -21,14 +21,14 @@ and negative feelings on different topics between different politicians. We also
 explored which hashtags are most popular and what their average sentiments
 are.
 
-###Note:
+### Note:
 to keep the starter file from becoming too crowded, all the tests have
 been moved to the file social_tests.py. The functions in this file are called at
 the bottom of social.py.
 
-#####Data Source Used: kaggle
+##### Data Source Used: kaggle
 
-###Components & Libraries of Python used:
+### Components & Libraries of Python used:
 Library: This project uses the pandas library to perform data analysis.
 
 Core Components: Data, Variables, Expressions, Statements
